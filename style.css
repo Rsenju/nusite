@@ -278,4 +278,184 @@ body, h1, h2, h3, p, ul{
     width: 45%;
     margin-top: 200px;
 }
+
 /*Fim da Seção 4 */
+
+/*Inicio da Seção 5,6,7 */
+
+.secao5{
+    background: url('../img/img5.png') no-repeat center center;
+    background-size: cover;
+    height: 800px;
+}
+
+.secao5 h2{
+    padding: 337px 0 0 0;
+    margin-left: 400px;
+    margin-bottom: 20px;
+    font-size: 40px;
+    color: white;
+    font-family: 'Cabin', sans-serif;
+}
+
+.link5{
+    margin-left: 400px;
+    text-decoration: none;
+    font-family: 'Cabin', sans-serif;
+    font-weight: bold;
+    color: white;
+}
+
+
+.secao6{
+    background: url('../img/img6.png') no-repeat center center;
+    background-size: cover;
+    height: 800px;
+}
+
+.secao6 h2{
+    padding: 337px 0 0 0;
+    margin-left: 400px;
+    margin-bottom: 20px;
+    font-size: 40px;
+    color: white;
+    font-family: 'Cabin', sans-serif;
+}
+
+.link6{
+    margin-left: 400px;
+    text-decoration: none;
+    font-family: 'Cabin', sans-serif;
+    font-weight: bold;
+    color: white;
+}
+
+
+.secao7{
+    background: url('../img/img7.png') no-repeat center center;
+    background-size: cover;
+    height: 800px;
+}
+
+.secao7 h2{
+    padding: 337px 0 0 0;
+    margin-left: 400px;
+    margin-bottom: 20px;
+    font-size: 40px;
+    color: white;
+    font-family: 'Cabin', sans-serif;
+}
+
+.link7{
+    margin-left: 400px;
+    text-decoration: none;
+    font-family: 'Cabin', sans-serif;
+    font-weight: bold;
+    color: white;
+}
+
+/*Fim da Seção 5,6,7 */
+
+/* Rodape 1 */
+.rodape1{
+    width: 100%;
+    height: 400px;
+    background-color: #111111;
+}
+
+.rodape2{
+    width: 100%;
+    height: 400px;
+    background-color: #111111;
+}
+
+.sec-1 {
+    width: 23%;
+    float: left;
+}
+
+.sec-2{
+    width: 23%;
+    float: left;
+}
+
+.sec-3{
+    width: 23%;
+    float: left;
+}
+
+.sec-4{
+    width: 23%;
+    float: left;
+}
+
+.sec-1, .sec-2, .sec-3, .sec-4{
+    margin-top: 60px;
+}
+
+.sec-1 a, .sec-2 a, .sec-3 a, .sec-4 a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Cabin', sans-serif;
+    font-size: 14px;
+    font-weight: lighter;
+}
+
+.sec-1 li, .sec-2 li, .sec-3 li, .sec-4 li{
+    padding-left: 8%;
+    list-style: none;
+    margin-bottom: 15px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Cabin', sans-serif;
+}
+
+.sec-1 h2, .sec-2 h2, .sec-3 h2, .sec-4 h2{
+    font-family: 'Cabin', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 8%;
+    color: white;
+    margin-bottom: 25px;
+}
+
+.sec-1 li a:hover{
+    color: #820ad1;
+}
+
+.sec-2 li a:hover{
+    color: #820ad1;
+}
+
+.sec-3 li a:hover{
+    color: #820ad1;
+}
+
+.sec-4 li a:hover{
+    color: #820ad1;
+}
+
+/* Fim rodape 1 */
+
+/* rodape 3 */
+
+.rodape3{
+    margin-bottom: 60px;
+    width: 100%;
+    height: 210px;
+    background-color: #111111;
+    border-top: solid 1px #191919;
+    border-bottom: solid 1px #191919;
+}
+
+.imgrodape{
+    padding: 30px;
+    float: left;
+}
+
+.rodape3 p{
+    font-family: 'Cabin', sans-serif;
+    font-size: 14px;
+    color: white;
+    padding: 30px;
+}
