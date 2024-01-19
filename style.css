@@ -4,17 +4,17 @@ body, h1, h2, h3, p, ul{
 }
 
 .menu{
-    width: 100%;
-    height: 20px;
+    width: 120%;
+    height: 12px;
     background: white;
-    padding: 20px 0px 50px 50px;
+    padding: 10px 0px 30px 30px;
     position: fixed;
 }
 
 .logo{
     display: block;
     float: left;
-    margin-top: 19px;
+    margin-top: 6px;
 }
 
 .menu-nubank{
@@ -23,16 +23,20 @@ body, h1, h2, h3, p, ul{
 }
 
 .menu-nubank li{
-    margin-top: 28px;
+    margin-top: 9px;
     display: inline-block;
+}
+
+.fa-solid{
+    margin-left: 10px;
 }
 
 .menu-nubank a{
     display: block;
     text-decoration: none;
     color: black;
-    font-size: 22px;
-    margin-left: 33px;
+    font-size: 18px;
+    margin-left: 18px;
     font-family: 'Cabin', sans-serif;
     font-weight: bold;
 }
@@ -43,7 +47,7 @@ body, h1, h2, h3, p, ul{
     font-family: 'Cabin', sans-serif;
     font-weight: bold;
     font-size: 18px;
-    padding-right: 80px;
+    padding-right: 50px;
     margin-top: 10px;
 }
 
@@ -54,7 +58,6 @@ body, h1, h2, h3, p, ul{
 .login a{
     text-decoration: none;
     color: #820ad1;
-
 }
 
 /* Inicio da imagem após o topo */
@@ -66,20 +69,20 @@ body, h1, h2, h3, p, ul{
 }
 
 .imagem h1{
-    padding: 370px 0 0 0;
-    margin-left: 220px;
+    padding: 350px 0 0 0;
+    margin-left: 180px;
     margin-bottom: 10px;
     font-family: 'Cabin', sans-serif;
     color: white;
-    font-size: 30px;
+    font-size: 28px;
     font-weight: bold;
 }
 
 .imagem h2{
-    margin-left: 220px;
+    margin-left: 180px;
     font-family: 'Cabin', sans-serif;
     color: white;
-    font-size: 30px;
+    font-size: 25px;
     font-weight: lighter;
 }
 
@@ -92,8 +95,8 @@ body, h1, h2, h3, p, ul{
     border-radius: 8px;
     text-align: center;
     padding: 20px;
-    margin-top: -150px;
-    margin-right: 40px;
+    margin-top: -180px;
+    margin-right: 200px;
 }
 
 .form h3{
